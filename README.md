@@ -9,16 +9,19 @@
 
 Thank you for visiting,</br>
 Please look forward to my introductory posts that will gradually fill up.😊
-
+</br>
+</br>
 
 ### My 📝, Skill Set
 - **❤️Backend  :** / java / c / 
 - **💙Collaboration :** / Slack / Discord /
 
-
+</br>
+</br>
+</br>
 
 <div align="center">
- 🧸 Me 🧸 </h3>
+<h3> 🧸 Me 🧸 </h3>
  
 [![Tistory Badge](https://img.shields.io/badge/-Tech%20Blog-00acee?style=flat&logo=Tistory&logoColor=white&link=[https://hjstoryy.tistory.com/](https://hjstoryy.tistory.com/))](https://hjstoryy.tistory.com/)
 
