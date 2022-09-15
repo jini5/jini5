@@ -20,7 +20,7 @@ Please look forward to my introductory posts that will gradually fill up.😊
 
 
 
-## Me
+<h3 align="center"> 🧸 Me 🧸 </h3>
 
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-00acee?style=flat&logo=Tistory&logoColor=white&link=[https://hjstoryy.tistory.com/](https://hjstoryy.tistory.com/))](https://hjstoryy.tistory.com/)
 
