@@ -1,11 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=4574E0&height=150&section=header&text=HyeonJin-Lim&fontSize=70&color=FFFFFF&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=#03A9F4&height=150&section=header&text=Welcome My Github&fontSize=70&animation=twinkling)
+
 
 
 ### Hi there 👋
 
+### My 📝, Skill Set
+- **😄Backend  :** / java / c / 
+- **💬Collaboration :** / Slack / Discord /
+
+
 
 
 <!--
+
+- **🔭DevOps   :** / AWS / K8S / Docker /
+- **🌱Frontend :** / HTML5 / CSS3(SCSS) / JS(ES6) / React / Flutter /
+
 **jini5/jini5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
