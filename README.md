@@ -14,7 +14,7 @@ Please look forward to my introductory posts that will gradually fill up.😊
 - **💙Collaboration :** / Slack / Discord /
 
 
-
+[![Tistory Badge](https://img.shields.io/badge/-reasley-00acee?style=flat&logo=Tistory&logoColor=white&link=[https://hjstoryy.tistory.com/](https://hjstoryy.tistory.com/))](https://hjstoryy.tistory.com/)
 
 <!--
 
@@ -36,12 +36,3 @@ Here are some ideas to get you started:
 -->
 
 
-
-## Multilingual page
-Trying to support multiple languages.
-Currently, only English is supported.
-<p align="center">
-  <a href="https://github.com/reasley-com">English</a>
-   · 
-  <a href="/docs/README_kr.md">한국어</a>
-</p>
