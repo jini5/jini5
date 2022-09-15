@@ -2,19 +2,24 @@
 
 
 
-### Hi there 👋
+## Hi there 👋
+## My name is Hyeonjin Lim
+
+Thank you for visiting,
+Please look forward to my introductory posts that will gradually fill up.😊
+
 
 ### My 📝, Skill Set
-- **😄Backend  :** / java / c / 
-- **💬Collaboration :** / Slack / Discord /
+- **❤️Backend  :** / java / c / 
+- **💙Collaboration :** / Slack / Discord /
 
 
 
 
 <!--
 
-- **🔭DevOps   :** / AWS / K8S / Docker /
-- **🌱Frontend :** / HTML5 / CSS3(SCSS) / JS(ES6) / React / Flutter /
+- **💛DevOps   :** / AWS / K8S / Docker /
+- **💚Frontend :** / HTML5 / CSS3(SCSS) / JS(ES6) / React / Flutter /
 
 **jini5/jini5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
