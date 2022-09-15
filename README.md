@@ -1,5 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=4574E0&height=150&section=header&text=HyeonJin-Lim&fontSize=70&animation=twinkling)
+
+
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HyeonJin-Lim&fontSize=70&animation=twinkling)
 
 
 
