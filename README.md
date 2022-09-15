@@ -22,8 +22,7 @@ Please look forward to my introductory posts that will gradually fill up.😊
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-
-[![Tistory Badge](https://img.shields.io/badge/-Tech%20Blog-00acee?style=flat&logo=Tistory&logoColor=white&link=[https://hjstoryy.tistory.com/](https://hjstoryy.tistory.com/))](https://hjstoryy.tistory.com/)
+<a [![Tistory Badge](https://img.shields.io/badge/-Tech Blog-00acee?style=flat&logo=Tistory&logoColor=white&link=[https://hjstoryy.tistory.com/](https://hjstoryy.tistory.com/))](https://hjstoryy.tistory.com/)/></a>
 
 </p>
 <br>
