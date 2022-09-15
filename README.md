@@ -13,10 +13,7 @@ Please look forward to my introductory posts that will gradually fill up.😊
 </br>
 
 ### My 📝, Skill Set
-- **❤️Tech Stack  :** / <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> / 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> / 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> / 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>/ 
+- **❤️Backend  :** / Java / 
 - **💙Collaboration :** / Slack / Discord /
 
 </br>
@@ -32,6 +29,11 @@ Please look forward to my introductory posts that will gradually fill up.😊
 
 
 <!--
+/ <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> / 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> / 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> / 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>/ 
+
 
 - **💛DevOps   :** / AWS / K8S / Docker /
 - **💚Frontend :** / HTML5 / CSS3(SCSS) / JS(ES6) / React / Flutter /
