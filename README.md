@@ -1,4 +1,7 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HyeonJin-Lim&fontSize=70&animation=twinkling)
+
+
 
 <!--
 **jini5/jini5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
