@@ -5,7 +5,7 @@
 ## Hi there 👋
 ## My name is Hyeonjin Lim
 
-Thank you for visiting,
+Thank you for visiting,</br>
 Please look forward to my introductory posts that will gradually fill up.😊
 
 
@@ -34,3 +34,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+## Multilingual page
+Trying to support multiple languages.
+Currently, only English is supported.
+<p align="center">
+  <a href="https://github.com/reasley-com">English</a>
+   · 
+  <a href="/docs/README_kr.md">한국어</a>
+</p>
