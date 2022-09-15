@@ -2,6 +2,8 @@
 
 
 
+
+
 ## Hi there 👋
 ## My name is Hyeonjin Lim
 
@@ -14,7 +16,16 @@ Please look forward to my introductory posts that will gradually fill up.😊
 - **💙Collaboration :** / Slack / Discord /
 
 
-[![Tistory Badge](https://img.shields.io/badge/-00acee?style=flat&logo=Tistory&logoColor=white&link=[https://hjstoryy.tistory.com/](https://hjstoryy.tistory.com/))](https://hjstoryy.tistory.com/)
+
+
+
+
+## Me
+
+[![Tistory Badge](https://img.shields.io/badge/-Tistory-00acee?style=flat&logo=Tistory&logoColor=white&link=[https://hjstoryy.tistory.com/](https://hjstoryy.tistory.com/))](https://hjstoryy.tistory.com/)
+
+
+
 
 <!--
 
