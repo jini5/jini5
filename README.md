@@ -16,6 +16,9 @@ Please look forward to my introductory posts that will gradually fill up.😊
 - **❤️Backend  :** / Java / Spring / SpringBoot
 - **💙Collaboration :** / Slack / Discord /
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lim789789)](https://solved.ac/lim789789/)
+
+
 </br>
 </br>
 </br>
