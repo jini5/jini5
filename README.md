@@ -1,14 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=03A9F4&height=150&section=header&text=HyeonJin%20Lim&fontSize=70&animation=twinkling)
-
-
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HyeonJin%20Lim&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 ## Hi there 👋
 ## My name is Hyeonjin Lim
 
 Thank you for visiting,</br>
-Please look forward to my introductory posts that will gradually fill up.😊
 </br>
 </br>
 
