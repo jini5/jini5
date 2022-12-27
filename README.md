@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HyeonJin%20Lim&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HyeonJin%20Lim&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 ## Hi there 👋
 ## My name is Hyeonjin Lim
@@ -9,9 +9,6 @@ Thank you for visiting,</br>
 
 
 ![Hyeonjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jini5&show_icons=true&theme=cobalt)
-
-<br>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lim789789)](https://solved.ac/lim789789/)
 
 
