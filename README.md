@@ -4,6 +4,8 @@
 ## My name is Hyeonjin Lim
 
 Thank you for visiting,</br>
+Please look forward to my introductory posts that will gradually fill up.😊
+
 </br>
 </br>
 
