@@ -7,23 +7,40 @@ Thank you for visiting,</br>
 Please look forward to my introductory posts that will gradually fill up.😊
 
 </br>
-</br>
 
-
-![Hyeonjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jini5&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jini5&layout=compact&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lim789789)](https://solved.ac/lim789789/)
 
 
 
 ### My 📝, Skill Set
-- **❤️Backend  :** / Java / Spring / SpringBoot
-- **💙Collaboration :** / Slack / Discord /
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jini5&layout=compact&theme=radical)
 
 
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+<br>
+
+
+
+# :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hjstoryy.tistory.com/)](https://hjstoryy.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lim789789@gmail.com)](mailto:lim789789@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:lim789789@naver.com)](mailto:lim789789@naver.com)
 
 </br>
 </br>
