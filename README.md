@@ -9,8 +9,9 @@ Please look forward to my introductory posts that will gradually fill up.😊
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jini5&layout=compact&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lim789789)](https://solved.ac/lim789789/)
 
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lim789789)](https://solved.ac/lim789789/)
+-->
 
 
 ### My 📝, Skill Set
